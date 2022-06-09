@@ -23,7 +23,7 @@ const tea = {
         'flavor': 'delicious'
     },
     'unknown': {
-        'tpye': 'unknown',
+        'type': 'unknown',
         'origin': 'unknown',
         'waterTemp': 0,
         'steepTimeSeconds': 0,
